@@ -7,6 +7,8 @@ export default function Home() {
         <div>Anh ghet ma</div>
       </div>
       <div>Abc</div>
+      <div>Xin chao</div>
+      <div>Xin chao</div>
     </main>
   );
 }
